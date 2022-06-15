@@ -1,2 +1,2 @@
 # Caption Generator
- Generate caption through google sheet data
+ Generate email caption through google sheet data
